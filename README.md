@@ -5,12 +5,5 @@ Teste Github Flow
 
 - nome: jose motta  
 - educ: eng eletronico, msc sistemas
-- framework: .NET Core
-- linguagem: C#
-
-
-
-
-
-
-
+- framework: .NET Core, Angular 6
+- linguagem: C#, Javascript
