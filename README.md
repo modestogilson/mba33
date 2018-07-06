@@ -1,6 +1,8 @@
 # mba33
 Teste Github Flow
 
+Vejam exemplo de [sessão bash](https://github.com/bamplifier/mba33/blob/master/Git-Merge.md) com comandos para gerar uma alteração no profile.  Esse procedimento equivale ao pull request que estamos fazendo via site Github. Reparem que o Github Flow ensina que somente desta forma o master pode ser alterado. Isto favorece a documentação das operações, vejam mais detalhes no [Pulse](https://github.com/bamplifier/mba33/pulse).
+
 ## Equipe
 
 - Nome: jose motta  
