@@ -8,6 +8,12 @@ Teste Github Flow
 - framework: .NET Core
 - linguagem: C#
 
+- nome: Vitor Cavalcanti
+- educ: Informática
+- framework: Spring, Rails, Django
+- linguagem: Java, Python, Ruby, Javascript, Swift
+
+
 
 
 
