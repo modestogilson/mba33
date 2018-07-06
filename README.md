@@ -3,14 +3,13 @@ Teste Github Flow
 
 ## Equipe
 
-- nome: jose motta  
-- educ: eng eletronico, msc sistemas
-- framework: .NET Core
-- linguagem: C#
-
-
-
-
-
-
-
+- Nome: jose motta  
+- Educ: eng eletronico, msc sistemas
+- Framework: .NET Core, Angular 6
+- Linguagem: C#, Javascript
+---
+- Nome: Leonardo Freire
+- Educ: Bacharel Informática
+- Framework: .Net Core, .Net Full, Entity Framework, Vue Js, Node.
+- Linguagens: C#, Javascript
+- Github: [https://github.com/lfreire80](https://github.com/lfreire80)
