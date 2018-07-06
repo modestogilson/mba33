@@ -7,6 +7,8 @@ Teste Github Flow
 - Educ: eng eletronico, msc sistemas
 - Framework: .NET Core, Angular 6
 - Linguagem: C#, Javascript
+- Github: [https://github.com/josemotta](https://github.com/josemotta "josemotta")
+
 ---
 - Nome: Leonardo Freire
 - Educ: Bacharel Informática
