@@ -38,3 +38,10 @@ Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/
 - Framework: .Net Core, .Net Full, Entity Framework, Vue Js, Node.
 - Linguagens: C#, Javascript
 - Github: [https://github.com/lfreire80](https://github.com/lfreire80)
+
+---
+- Nome: Julio Cesar
+- Educ: Bacharel Informática
+- Framework: .Net, Hibernate
+- Linguagens: C#, Java
+- Github: [https://github.com/juliocesarli](https://github.com/juliocesarli)
