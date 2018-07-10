@@ -49,6 +49,6 @@ Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/
 ---
 - Nome: Renato Teixeira
 - Educ: Tecnólogo em Processamento de Dados
-- Framework: .Net, Hibernate
-- Linguagens: C#, Java
+- Framework: .NET Core, Angular 6
+- Linguagens: .NET Core, Angular 6
 - Github: [https://github.com/rateixeira](https://github.com/rateixeira)
