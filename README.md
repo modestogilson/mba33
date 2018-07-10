@@ -45,3 +45,10 @@ Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/
 - Framework: .Net, Hibernate
 - Linguagens: C#, Java
 - Github: [https://github.com/juliocesarli](https://github.com/juliocesarli)
+
+---
+- Nome: Renato Teixeira
+- Educ: Tecnólogo em Processamento de Dados
+- Framework: .Net, Hibernate
+- Linguagens: C#, Java
+- Github: [https://github.com/rateixeira](https://github.com/rateixeira)
