@@ -3,8 +3,10 @@
 
 Alunos, por favor sigam instruções a seguir para agilizar a próxima aula prática.
 
-Obrigado e até quarta,  
+Obrigado,
 José Motta
+
+PS: Vejam novo diagrama do [Cyclo Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") que inclui os comandos Git!
 
 Vamos utilizar o [Github](https://github.com) e o [Pivotal Tracker](https://www.pivotaltracker.com) neste curso. Para ter acesso de escrita aos recursos, será preciso se autenticar. Caso ainda não tenha, favor abrir uma conta gratuita em ambos os sites.
 
@@ -18,7 +20,7 @@ Normalmente em projetos agile, há uma decisão a respeito de quem tem autoriza�
 
 Abaixo, segue uma forma de se aceitar um pull request, utilizando a linha de comandos. O resultado prático é exatamente o mesmo de se fazer o "pull request" pelo site. Vejam mais detalhes no [Pulse](https://github.com/bamplifier/mba33/pulse).
 
-Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/master/Git-Merge.md) com comandos para gerar uma alteração no profile da equipe, contida neste arquivo README. Os alunos devem alterar somente a parte final do arquivo, adicionando seus dados, conforme o modelo. Reparem que o Leonardo já preencheu corretamente. 
+Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/master/Git-Merge.md) com comandos para gerar uma alteração no profile da equipe, contida neste arquivo README. Os alunos devem alterar somente a parte final do arquivo, adicionando seus dados, conforme o modelo a seguir.
 
 ## Equipe
 
