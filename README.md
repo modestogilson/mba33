@@ -52,3 +52,10 @@ Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/
 - Framework: .NET Core, Angular 6
 - Linguagens: .NET Core, Angular 6
 - Github: [https://github.com/rateixeira](https://github.com/rateixeira)
+
+---
+- Nome: Vitor Cavalcanti
+- Educ: Informática
+- Framework: Spring, Rails, Django
+- Linguagem: Java, Python, Ruby, Javascript, Swift
+- Github: [https://github.com/vitorcavalcanti](https://github.com/vitorcavalcanti)
