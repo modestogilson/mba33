@@ -1,59 +1,24 @@
-# mba33
-## Teste Github Flow
+# ENGSOFT 33
 
-Alunos, por favor sigam instruções a seguir para agilizar a próxima aula prática.
+Alunos, por favor sigam instruções a seguir para agilizar as próximas aulas.
 
-Obrigado,
+Grato,  
 José Motta
 
-PS: Vejam novo diagrama do [Cyclo Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") que inclui os comandos Git!
+## Notícias
 
-Vamos utilizar o [Github](https://github.com) e o [Pivotal Tracker](https://www.pivotaltracker.com) neste curso. Para ter acesso de escrita aos recursos, será preciso se autenticar. Caso ainda não tenha, favor abrir uma conta gratuita em ambos os sites.
+- 14/7: Para experimentar com containers, utilizem o [Docker Playground](https://labs.play-with-docker.com "Docker Playground").
+- 14/7: Para treinamentos Docker, vejam [container.training](http://container.training "Container Training").
+- 12/7: Vejam novo diagrama do [Cyclo Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") incluindo os comandos Git!
+- 11/7: Quem já conseguiu acesso como colaborador, favor seguir o procedimento para atualizar o arquivo **readme** com o profile da equipe. Quem ainda não tem o acesso, favor se registrar em **ambos** os sites.
+- 5/7: Vamos utilizar o [Github](https://github.com) e o [Pivotal Tracker](https://www.pivotaltracker.com) neste curso. Para ter acesso de escrita aos recursos, será preciso se autenticar. Caso ainda não tenha, favor abrir uma conta gratuita em ambos os sites.
 
-Quem já conseguiu acesso como colaborador, lista abaixo, favor seguir o procedimento para atualizar este arquivo **readme** com o profile da equipe. Quem ainda não tem o acesso, favor se registrar em **ambos** os sites.
+## Exercícios
 
-### O que é o exercício?
+### Exercício 1
 
-Normalmente em projetos agile, há uma decisão a respeito de quem tem autorização para atualizar o repositório, após o pedido de pull request. No nosso caso, TODOS os alunos tem essa autorização. Essa diretriz do [Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow.png) autoriza qualquer desenvolvedor a atualizar o site, aceitando um pull request.
+- **Título**: Utilização do [Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") em quatro passos.
+- **Descrição**: O exercício consiste em (1) criar um branch de mudança com qualquer nome e (2) editar o arquivo `equipe.md` para adicionar seus dados. Em seguida, (3) realizar o merge deste branch com o repositório master. Após verificar que a mudança foi bem sucedida, (4) deletar o branch de mudança.
+- **Instruções**: Ver mais detalhes no arquivo [Equipe.md](https://github.com/bamplifier/mba33/blob/master/Equipe.md)
 
-É vital seguir o ritual de se criar um branch de mudança, pois o "master" não pode ser alterado diretamente com um "push". Deve-se sempre fazer o "merge" de um branch de mudança, após um "pull request" ser disparado. O método interativo, via site do Github, nós vimos na última aula prática. Vamos revisar novamente esse procedimento essa semana.
 
-Abaixo, segue uma forma de se aceitar um pull request, utilizando a linha de comandos. O resultado prático é exatamente o mesmo de se fazer o "pull request" pelo site. Vejam mais detalhes no [Pulse](https://github.com/bamplifier/mba33/pulse).
-
-Sigam o procedimento da [sessão bash](https://github.com/bamplifier/mba33/blob/master/Git-Merge.md) com comandos para gerar uma alteração no profile da equipe, contida neste arquivo README. Os alunos devem alterar somente a parte final do arquivo, adicionando seus dados, conforme o modelo a seguir.
-
-## Equipe
-
-- Nome: jose motta  
-- Educ: eng eletronico, msc sistemas
-- Framework: .NET Core, Angular 6
-- Linguagem: C#, Javascript
-- Github: [https://github.com/josemotta](https://github.com/josemotta "josemotta")
-
----
-- Nome: Leonardo Freire
-- Educ: Bacharel Informática
-- Framework: .Net Core, .Net Full, Entity Framework, Vue Js, Node.
-- Linguagens: C#, Javascript
-- Github: [https://github.com/lfreire80](https://github.com/lfreire80)
-
----
-- Nome: Julio Cesar
-- Educ: Bacharel Informática
-- Framework: .Net, Hibernate
-- Linguagens: C#, Java
-- Github: [https://github.com/juliocesarli](https://github.com/juliocesarli)
-
----
-- Nome: Renato Teixeira
-- Educ: Tecnólogo em Processamento de Dados
-- Framework: .NET Core, Angular 6
-- Linguagens: .NET Core, Angular 6
-- Github: [https://github.com/rateixeira](https://github.com/rateixeira)
-
----
-- Nome: Vitor Cavalcanti
-- Educ: Informática
-- Framework: Spring, Rails, Django
-- Linguagem: Java, Python, Ruby, Javascript, Swift
-- Github: [https://github.com/vitorcavalcanti](https://github.com/vitorcavalcanti)
