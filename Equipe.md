@@ -54,3 +54,11 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Spring, Rails, Django
 - Linguagem: Java, Python, Ruby, Javascript, Swift
 - Github: [https://github.com/vitorcavalcanti](https://github.com/vitorcavalcanti)
+
+---
+- Nome: Vinicius Coutinho
+- Educ: Bacharel Informática
+- Framework: Hibernate, Spring, JSF, JUnit, Jasper, ...
+- Linguagens: Java, Javascript, Android, Shell script ...
+- Github: [https://github.com/vcoutinho](https://github.com/vcoutinho)
+
