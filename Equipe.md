@@ -42,10 +42,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Github: [https://github.com/juliocesarli](https://github.com/juliocesarli)
 
 ---
-- Nome: Renato Teixeira
+- Nome: Renato Afonso Teixeira
 - Educ: Tecnólogo em Processamento de Dados
 - Framework: .NET Core, Angular 6
-- Linguagens: .NET Core, Angular 6
+- Linguagens: VB6, HTML, Javascript, .NET Core, Angular 6
 - Github: [https://github.com/rateixeira](https://github.com/rateixeira)
 
 ---
