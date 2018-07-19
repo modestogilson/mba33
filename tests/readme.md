@@ -15,19 +15,20 @@ Cada aluno deve publicar seus exercícios neste diretório:
 
 Pode copiar o conteúdo da pergunta e colocar no arquivo exercicio-2 (sem acento pf)
 
-# ENGSOFT 33
-
-Aluno: Nome do aluno
-
-### Exercício 2
-
-- **Título**: Pergunta/Resposta
-- **Descrição**: Qual o seu entendimento sobre o Processo de
-Desenvolvimento de Software? Quais são os seus objetivos
-básicos? Qual a sua importância para a qualidade dos produtos de software?
-- **Instruções**: Desenvolver o texto em uma ou duas páginas. Publicar resposta aqui mesmo no repo, no folder `tests`, ver mais [detalhes](https://github.com/bamplifier/mba33/blob/master/tests/readme.md). 
-
-- Resposta: essa abaixo não vale!
+	# ENGSOFT 33
+	
+	Aluno: Nome do aluno
+	
+	### Exercício 2
+	
+	- **Título**: Pergunta/Resposta
+	- **Descrição**: Qual o seu entendimento sobre o Processo de
+	Desenvolvimento de Software? Quais são os seus objetivos
+	básicos? Qual a sua importância para a qualidade dos produtos de software?
+	
+	- Resposta: 
+	    
+Pode incluir imagens. Ver exemplo abaixo, mas essa resposta não vale!
 
 ![](https://i.imgur.com/TN9wQfl.png)
 
