@@ -13,7 +13,7 @@ Cada aluno deve publicar seus exercícios neste diretório:
 
 ### Template para resposta
 
-Pode copiar o conteúdo da pergunta e colocar no arquivo exercicio-2 (sem acento pf)
+Pode copiar o conteúdo da pergunta e colocar no arquivo `exercicio-2.md` (sem acento pf)
 
 	# ENGSOFT 33
 	
