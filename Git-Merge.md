@@ -13,6 +13,10 @@ Segue abaixo uma sessão que muda o master e publica de volta no Github.
 
 ![Merge](https://i.imgur.com/pVKZH8X.png)
 
+Caso haja conflito, ver abaixo, tente sincronizar com master novamente, pois alguém pode ter aceitado um pull request e modificado o master.
+
+![](https://i.imgur.com/mgzzRKu.png)
+
 Outro exemplo, incluindo vários arquivos:
 
 	$ git status
