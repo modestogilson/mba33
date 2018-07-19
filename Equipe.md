@@ -62,3 +62,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Linguagens: Java, Javascript, Android, Shell script ...
 - Github: [https://github.com/vcoutinho](https://github.com/vcoutinho)
 
+---
+- Nome: Felipe Guizarra
+- Educ: Tecnólogo Análise e Desenvolvimento de Sistemas
+- Framework: JSF, Primefaces, Spring, JUnit, Jasper, .NET Core...
+- Linguagens: Java, C#, PHP, Javascript...
+- Github: [https://github.com/felipeguizarra](https://github.com/felipeguizarra)
+
