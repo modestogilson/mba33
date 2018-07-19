@@ -19,7 +19,7 @@ José Motta
 
 - **Título**: Utilização do [Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") em quatro passos.
 - **Descrição**: O exercício consiste em (1) criar um branch de mudança com qualquer nome e (2) editar o arquivo `equipe.md` para adicionar seus dados. Em seguida, (3) realizar o merge deste branch com o repositório master. Após verificar que a mudança foi bem sucedida, (4) deletar o branch de mudança.
-- **Instruções**: Ver mais detalhes no arquivo [Equipe.md](https://github.com/bamplifier/mba33/blob/master/Equipe.md)
+- **Instruções**: Ver mais detalhes no arquivo [Equipe.md](https://github.com/bamplifier/mba33/blob/master/Equipe.md). 
 
 ### Exercício 2
 
@@ -27,16 +27,16 @@ José Motta
 - **Descrição**: Qual o seu entendimento sobre o Processo de
 Desenvolvimento de Software? Quais são os seus objetivos
 básicos? Qual a sua importância para a qualidade dos produtos de software?
-- **Instruções**: Desenvolver o texto em uma ou duas páginas. Publicar resposta aqui mesmo no repo, no folder `tests`, ver mais detalhes.
+- **Instruções**: Desenvolver o texto em uma ou duas páginas. Publicar resposta aqui mesmo no repo, no folder `tests`, ver mais [detalhes](https://github.com/bamplifier/mba33/blob/master/tests/readme.md). 
 
 ### Projeto 1
 
-- **Título**: Painel do Clima
-- **Descrição**: 
-- **Instruções**:
+- **Título**: Projeto IoT: Estação do Clima
+- **Descrição**: Sistema para coleta de dados ambientais.
+- **Instruções**: aguardem mais detalhes
 
 ### Projeto 2
 
-- **Título**: Controle Remoto
-- **Descrição**: 
-- **Instruções**:
+- **Título**: Projeto IoT: Rede de Controles Remotos
+- **Descrição**: Sistema infra-vermelho de supervisão e controle.
+- **Instruções**: aguardem mais detalhes
