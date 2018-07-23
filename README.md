@@ -7,6 +7,7 @@ José Motta
 
 ## Notícias
 
+- 23/7: Vídeos treinamento Docker: [The Best Ways to Install Docker for Windows, Mac, and Linux, with Tips](https://www.bretfisher.com/installdocker/).
 - 14/7: Para experimentar com containers, utilizem o [Docker Playground](https://labs.play-with-docker.com "Docker Playground").
 - 14/7: Para treinamentos Docker, vejam [container.training](http://container.training "Container Training") com muitas opções interessantes. Para iniciar tem [Introduction to Docker and Containers](https://revconf18.bretfisher.com/#1).
 - 12/7: Vejam novo diagrama do [Cyclo Github Flow](https://github.com/bamplifier/mba33/blob/master/refs/github_flow_cyclo.pdf "Cyclo Github Flow") incluindo os comandos Git!
