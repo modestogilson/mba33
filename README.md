@@ -36,6 +36,6 @@ básicos? Qual a sua importância para a qualidade dos produtos de software?
 
 - **Título**: Projeto IoT: Sistema Supervisão Predial & Sistema de Coleta do Clima
 - **Descrição**: Sistemas distribuídos baseados em uma estação remota.
-- **Instruções**: Ver mais detalhes em [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") no folder `refs`.
+- **Instruções**: Ver mais detalhes em  [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") e ver também [outro exemplo de projeto sobre clima](https://github.com/bamplifier/mba33/blob/master/refs/story-X-sistema-coleta-do-clima.pdf "Projeto Clima").
 
 
