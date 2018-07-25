@@ -69,3 +69,9 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Linguagens: Java, C#, PHP, Javascript...
 - Github: [https://github.com/felipeguizarra](https://github.com/felipeguizarra)
 
+---
+- Nome: Alexandre Menezes Martins Júnior
+- Educ: Tecnólogo Análise e Desenvolvimento de Sistemas
+- Framework: 
+- Linguagens: 
+- Github: [https://github.com/alexmmjr](https://github.com/alexmmjr)
