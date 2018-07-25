@@ -7,6 +7,8 @@ José Motta
 
 ## Notícias
 
+- 24/7: **Vejam o exercício final do curso**! Entrega e apresentação no dia 1/8. O material gerado no [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") deve ser publicado no folder `tests` do repositório Github, conforme o respectivo `id` do aluno.
+
 - 23/7: Vídeos treinamento Docker: [The Best Ways to Install Docker for Windows, Mac, and Linux, with Tips](https://www.bretfisher.com/installdocker/).
 - 14/7: Para experimentar com containers, utilizem o [Docker Playground](https://labs.play-with-docker.com "Docker Playground").
 - 14/7: Para treinamentos Docker, vejam [container.training](http://container.training "Container Training") com muitas opções interessantes. Para iniciar tem [Introduction to Docker and Containers](https://revconf18.bretfisher.com/#1).
@@ -30,14 +32,10 @@ Desenvolvimento de Software? Quais são os seus objetivos
 básicos? Qual a sua importância para a qualidade dos produtos de software?
 - **Instruções**: Desenvolver o texto em uma ou duas páginas. Publicar resposta aqui mesmo no repo, no folder `tests`, ver mais [detalhes](https://github.com/bamplifier/mba33/blob/master/tests/readme.md). 
 
-### Projeto 1
+### Projeto IoT
 
-- **Título**: Projeto IoT: Estação do Clima
-- **Descrição**: Sistema para coleta de dados ambientais.
-- **Instruções**: aguardem mais detalhes
+- **Título**: Projeto IoT: Sistema Supervisão Predial & Sistema de Coleta do Clima
+- **Descrição**: Sistemas distribuídos baseados em uma estação remota.
+- **Instruções**: Ver mais detalhes em [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") no folder `refs`.
 
-### Projeto 2
 
-- **Título**: Projeto IoT: Rede de Controles Remotos
-- **Descrição**: Sistema infra-vermelho de supervisão e controle.
-- **Instruções**: aguardem mais detalhes
