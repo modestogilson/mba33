@@ -1,9 +1,15 @@
+# ENGSOFT 33
+
 Aluno: Rita de Cássia Castro de Mendonça Negreiros
-Exercício 2
 
-Descrição: Qual o seu entendimento sobre o Processo de Desenvolvimento de Software? Quais são os seus objetivos básicos? Qual a sua importância para a qualidade dos produtos de software?
+### Exercício 2
 
-Respostas:
+- **Título**: Pergunta/Resposta
+- **Descrição**: Qual o seu entendimento sobre o Processo de Desenvolvimento de Software? 
+                 Quais são os seus objetivos básicos? 
+				 Qual a sua importância para a qualidade dos produtos de software?
+
+- Resposta: 
 
 O processo de desenvolvimento de um software é um conjunto de atividades que visam a criação de um software bem estruturado, de qualidade, que possua uma boa manutenção e possa ser reaproveitado. Em resumo esse processo visa definir quem faz o que e de que forma.
 
