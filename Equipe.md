@@ -75,3 +75,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: 
 - Linguagens: 
 - Github: [https://github.com/alexmmjr](https://github.com/alexmmjr)
+
+---
+- Nome: Rita de Cássia C. M. Negreiros
+- Educ: Tecnólogo Processamento de Dados
+- Framework: Scrum (noções, atualmente atuando como Product Owner)
+- Linguagens: Somente noções de javascript
+- Github: [https://github.com/RitaNegreiros](https://github.com/RitaNegreiros)
