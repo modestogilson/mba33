@@ -82,3 +82,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Scrum (noções, atualmente atuando como Product Owner)
 - Linguagens: Somente noções de javascript
 - Github: [https://github.com/RitaNegreiros](https://github.com/RitaNegreiros)
+
+---
+- Nome: Luís César da Costa
+- Educ: Bacharel em Ciência da Computação, Msc. Informática
+- Framework: Hibernate/JPA, Spring, Struts, Seam, JSF
+- Linguagens: C/C++, Java, Javascript
+- Github: [https://github.com/LuisCesarCosta](https://github.com/LuisCesarCosta)
