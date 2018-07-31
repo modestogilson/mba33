@@ -89,3 +89,9 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Hibernate/JPA, Spring, Struts, Seam, JSF
 - Linguagens: C/C++, Java, Javascript
 - Github: [https://github.com/LuisCesarCosta](https://github.com/LuisCesarCosta)
+---
+- Nome: Edimar Barbosa Miranda Junior
+- Educ: Bacharel em Sistemas de Informação
+- Framework: Hibernate/JPA, Spring, Struts, Seam, JSF, Angular 6, AngularJs, Node
+- Linguagens: Java, Javascript
+- Github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior)
