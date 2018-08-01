@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Coletar informações de até 50000 sensores de temperatura espalhados em determinados do mapa.
+Coletar informações de até 50000 sensores de temperatura espalhados em determinados locais do mapa.
 
 
 ## Requisitos
@@ -23,7 +23,7 @@ Nele teremos instalados além do sistema operacional e o Python 2.5
 
 Teremos um servidor central na nuvem para agregação dos dados coletados dos sensores, e emissor de alertar.
 
-![](https://image.ibb.co/g6x1iz/Desenho_sem_t_tulo_3.jpg)
+![](https://image.ibb.co/ccRSOz/Desenho_sem_t_tulo_5.jpg)
 
 ### Aplicação dos sensores
 
@@ -42,6 +42,6 @@ Nas estações teremos instalado o Filebeat para envio dos logs para um servidor
 
 ### Aplicação do servidor
 
-A aplicação servidor ficara hospedada em um servidor de nuvem com a Stack ELK (Logstash, ElasticSearch e Kibana) pronta para receber os logs enviados pelo Filebeat, que receberam os dados emitidos pelas estações espalhadas pelo mundo, onde será possível configurar através do Kibana os dashboards de acompanhamento.
+A aplicação ficara hospedada em servidores na nuvem com o Logstash,  um banco de dados MongoDB e uma aplicação APT.NET Core MVC pronta para receber os logs enviados pelo Filebeat, que receberam os dados emitidos pelas estações espalhadas pelo mundo, onde será possível o monitoramento completo das estações atraves da aplicação MVC.
 
 
