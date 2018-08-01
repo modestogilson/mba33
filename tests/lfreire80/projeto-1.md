@@ -1,4 +1,4 @@
-# Projeto Estação Remota
+# Sistema de Supervisão Predial
 
 ### ENGSOFT 33
 ### Aluno: Leonardo Freire
