@@ -1,5 +1,7 @@
 ##  How do I measure request and response times at once using cURL?
 
+fonte: [stackoverflow](https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl)
+
 	curl_time() {
 	    curl -so /dev/null -w "\
 	   namelookup:  %{time_namelookup}s\n\
