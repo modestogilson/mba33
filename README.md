@@ -7,7 +7,8 @@ José Motta
 
 ## Notícias
 
-- 2/8:Parabéns pela participação de todos nas discussões sobre os projetos IoT em nossa aula de ontem. Aguardo os documentos com as conclusões de cada um até a próxima quarta, 8/8. Por favor, publiquem as respostas em seus respectivos folders em nosso repo. 
+- 2/8: **Parabéns** pela participação de todos nas discussões sobre os projetos IoT em nossa aula de ontem. Aguardo os documentos com as conclusões de cada um até a próxima quarta, 8/8. Por favor, publiquem as respostas em seus respectivos folders em nosso repo.
+	- Deem preferência a formatos renderizados adequadamente no Github, como `.md` e `.pdf`. Para aqueles que fizeram arquivos MS Word, só precisa salvar/exportar como `.pdf` no mesmo local.
 - 24/7: **Vejam o exercício final do curso**! Entrega e apresentação no dia 1/8. O material gerado no [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") deve ser publicado no folder `tests` do repositório Github, conforme o respectivo `id` do aluno.
 
 - 23/7: Vídeos treinamento Docker: [The Best Ways to Install Docker for Windows, Mac, and Linux, with Tips](https://www.bretfisher.com/installdocker/).
