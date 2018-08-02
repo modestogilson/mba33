@@ -44,7 +44,7 @@ básicos? Qual a sua importância para a qualidade dos produtos de software?
 	3. Qual a sua importância para a qualidade dos produtos de software?  
 
 - **Instruções**: **Fase 1**: Definir os participantes do grupo, sugiro prosseguir neste [pull request](https://github.com/bamplifier/mba33/pull/19), já criado pelo Leo. **Fase 2**: Publique SUA resposta, perguntas separadas, em seu folder no arquivo `exercicio-3.md`. **Fase 3**: Posteriormente, os dados dos participantes serão compilados pelo grupo. As repostas mais populares devem ser escolhidas, podendo ainda sofrer alterações e edições finais, a critério da equipe. **Final**: O arquivo final deve ser publicado no arquivo `/tests/exercicio-3.md` e irá representar a turma, validando a nota única (de até mais um ponto) para a equipe participante.  
-- **Atenção**: Para ser válida a opinião da maioria, é preciso que estejam participando pelo menos a metade mais um da turma, ou seja, 15 alunos.
+- **Atenção**: Para ser válida o exercício (e a opinião da maioria), é preciso que estejam participando pelo menos a metade mais um da turma, ou seja, 15 alunos.
 
 ### Projeto IoT
 
