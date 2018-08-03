@@ -95,3 +95,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Hibernate/JPA, Spring, Struts, Seam, JSF, Angular 6, AngularJs, Node
 - Linguagens: Java, Javascript
 - Github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior)
+
+---
+- Nome: Thiago Lessa Aramaki
+- Educ: Engenheiro Eletrônico, Especialista em Automação para Industria do Petróleo, Mestre em Metrologia
+- Framework: .Net, R
+- Linguagens: VB, C#
+- Github: [https://github.com/thiagoaramaki](https://github.com/thiagoaramaki)
