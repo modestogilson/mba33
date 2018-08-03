@@ -22,13 +22,15 @@ Nele teremos instalados além do sistema operacional o Docker CE para executarmo
 
 Teremos um servidor central para agregação dos dados coletados dos sensores, controle dos sensores e emissor de alertar.
 
-![](https://image.ibb.co/mdXLbK/Desenho_sem_t_tulo_2.jpg)
+![](https://image.ibb.co/gwMEOz/Untitled_Diagram.jpg)
 
-### Aplicação dos sensores
+### Aplicações dos sensores
 
-A aplicação será desenvolvida em .NET Core 2.1 utilizando ASP.NET Core 2.1 - Web API em C#, sua função básica será expor um API para leitura dos dados do sensor.
+Nos Raspberry Pi terão dois serviços instalados. 
 
-Este API deverá ser acessada através do caminho  https://<ip_do_ponto>/api/v1/temperatura
+O primeiro será desenvolvido em .NET Core 2.1 Console Application que fará a leitura dos sensores e armazenamento em memória, para diminuir a latência de resposta dos sensores.
+
+O Segundo será desenvolvido em .NET Core 2.1 Web API para consulta dos dados dos sensores gravados em memória.
 
 Ontem devera tem como resposta um JSON no formato abaixo:
 
@@ -41,9 +43,14 @@ Ontem devera tem como resposta um JSON no formato abaixo:
 }
 ```
 
-### Aplicação do servidor
+### Aplicações do servidor
 
-A aplicação do servidor será desenvolvida em .Net Core 2.1 ASP.Net Core 2.1 - MVC em C#, será dividida em duas partes, a primeira será um responsável por acessar os pontos de medições cadastrados a cada 5 segundos, coletar suas informações e registrá-las em um banco de dados MongoDb. A segunda parte será reponsável por gerencias as pontos de acessos, seus alarmes assim como o dashboard de monitoramento. A aplicação poderá ser acessada via navegador web mediante a autenticação de login e senha, de qualquer maquina na rede.
+Uma aplicação ficará responsável por monitorar os dados dos sensores cadastrados no banco de dados e disponibilizar as informações para o a aplicação MVC e para o Alarme.
+
+Outra aplicação do servidor será desenvolvida em .Net Core 2.1 ASP.Net Core 2.1 - MVC em C#, será dividida em duas partes, a primeira será um responsável por controlar o cadastro dos sensores instalados no prédio, será permitido também consulta dos históricos de temperaturas.
+
+A alarme ficará responsável para verificar se algum sensor esta fora dos padrões estabelecidos.
+
 
 
 

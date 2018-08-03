@@ -42,6 +42,10 @@ Nas estações teremos instalado o Filebeat para envio dos logs para um servidor
 
 ### Aplicação do servidor
 
-A aplicação ficara hospedada em servidores na nuvem com o Logstash,  um banco de dados MongoDB e uma aplicação APT.NET Core MVC pronta para receber os logs enviados pelo Filebeat, que receberam os dados emitidos pelas estações espalhadas pelo mundo, onde será possível o monitoramento completo das estações atraves da aplicação MVC.
+A aplicação ficará hospedada em servidores na nuvem onde teremos o Logstash, MongoDB e uma aplicação APT.NET Core MVC. Possibilitando assim um escalabilidade independente entre os servidores.
+
+Os dados serão enviados pelo Filebeat instalado nas estações, processados pelo Logstash e armazenados no MongoDb.
+
+A aplicação MVC disponibilizará um interface onde será possível o monitoramento completo das estações.
 
 
