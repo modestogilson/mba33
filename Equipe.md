@@ -102,3 +102,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: .Net, R
 - Linguagens: VB, C#
 - Github: [https://github.com/thiagoaramaki](https://github.com/thiagoaramaki)
+
+---
+- Nome: Marcos Dantas Cunha
+- Educ: Tecnólogo Processamento de Dados
+- Framework: Java EE, JSF 2.3, EJB3.X, Spring, Struts2, Struts
+- Linguagens: Java, VB6, VB.net
+- Github: [https://github.com/Loukanikos](https://github.com/Loukanikos)
