@@ -123,3 +123,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Java EE, JSF, Struts 1 2
 - Linguagens: Java, Ruby, Javascript
 - Github: [https://github.com/JavanTorres](https://github.com/JavanTorres)
+
+---
+- Nome: Yago Paiva Barboza da Silva
+- Educ: Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Framework: Java EE, Struts 1, VRaptor, Hibernate, EJB
+- Linguagens: Java, Android, Javascript, SQL
+- Github: [https://github.com/PaivaYago](https://github.com/PaivaYago)
