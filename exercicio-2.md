@@ -1,6 +1,6 @@
 # ENGSOFT 33
 
-Aluno: Marcos Dantas Cunha
+Aluno: Matheus Navega
 
 ### Exercicio 2
 
@@ -10,11 +10,9 @@ Aluno: Marcos Dantas Cunha
 
 - Resposta (sem acentuacao):
 
-1) O processo de desenvolvimento de software engloba desde o inicio das conversas sobre o escopo do projeto ate a sua final entrega.
-   Este processo pode ser encarado atraves de varias metodologias, como por exemplo, em cascata ou agil.
+1) x
 
-2) Seu objetivo basico e entregar um produto que atenda 100% do escopo pedido, com qualidade e no prazo definido.
+2) x
 
-3) E durante o processo de desenvolvimento em que a qualidade de um produto e atingida. Este processo inclui testes unitarios durante a codificacao, 
-   teste de homologacao da funcionalidades junto aos clientes e o teste de integracao com os demais softwares que se encontrem na fronteira deste.
+3) x
 
