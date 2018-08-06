@@ -117,3 +117,9 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Linguagens: Java, Android, Javascript
 - Github: [https://github.com/matheusnavega](https://github.com/matheusnavega)
 
+---
+- Nome: Javan de Mesquita Torres
+- Educ: Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Framework: Java EE, JSF, Struts 1 2
+- Linguagens: Java, Ruby, Javascript
+- Github: [https://github.com/JavanTorres](https://github.com/JavanTorres)
