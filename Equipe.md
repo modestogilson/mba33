@@ -130,3 +130,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Java EE, Struts 1, VRaptor, Hibernate, EJB
 - Linguagens: Java, Android, Javascript, SQL
 - Github: [https://github.com/PaivaYago](https://github.com/PaivaYago)
+
+---
+- Nome: Leno Campos Lima
+- Educ: Bacharel Sistemas de Informação
+- Framework: Java EE, JSF, EJB, Spring, Struts, Hibernate
+- Linguagens: Java, JavaScript, SQL
+- Github: [https://github.com/lenocampos](https://github.com/lenocampos)
