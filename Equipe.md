@@ -130,3 +130,10 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Java EE, Struts 1, VRaptor, Hibernate, EJB
 - Linguagens: Java, Android, Javascript, SQL
 - Github: [https://github.com/PaivaYago](https://github.com/PaivaYago)
+
+---
+- Nome: Gilson Modesto da Silva Ferreira
+- Educ: Sistemas de Informações
+- Framework: Spring, Angular
+- Linguagens: Java
+- Github: [https://github.com/modestogilson](https://github.com/modestogilson)
